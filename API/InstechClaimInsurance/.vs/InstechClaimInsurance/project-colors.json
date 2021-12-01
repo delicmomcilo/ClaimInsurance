@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9de8e9d3-5d20-4d43-b39b-8f285aec463d": {
+      "ProjectGuid": "9de8e9d3-5d20-4d43-b39b-8f285aec463d",
+      "DisplayName": "InstechClaimInsurance",
+      "ColorIndex": 0
+    },
+    "9292d8ff-8cb2-43f0-9c2f-4dab7a35229f": {
+      "ProjectGuid": "9292d8ff-8cb2-43f0-9c2f-4dab7a35229f",
+      "DisplayName": "InstechClaimInsurance.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
