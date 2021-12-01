@@ -5,12 +5,12 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: claiminsurance 
-  AZURE_WEBAPP_PACKAGE_PATH: 'frontend/claims-app'     
+  AZURE_WEBAPP_PACKAGE_PATH: 'WebApp/claims-app'     
   NODE_VERSION: '14.x'               
   
 defaults:
   run:
-    working-directory: ./frontend/claims-app
+    working-directory: ./WebApp/claims-app
 
 jobs:
   build-and-deploy:
